@@ -36,3 +36,5 @@ js/packages/web/.env
 traits
 traits-configuration.json
 *.sqlite
+*.suo
+/.vs/VSWorkspaceState.json
